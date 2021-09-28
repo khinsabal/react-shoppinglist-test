@@ -1,2 +1,7 @@
-# react-shoppinglist-test
-Created with CodeSandbox
+# React ShoppingList App
+
+reactのTodoアプリのサンプルです。このサンプルアプリはreactワークショップの一環として行われました。
+
+# Instructions
+
+CodeSandboxでReactのAppを作成しました。
